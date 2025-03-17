@@ -1,0 +1,3 @@
+[submodule "Optical-Link-Budget"]
+	path = Optical-Link-Budget
+	url = https://github.com/MIT-STARLab/Optical-Link-Budget.git
